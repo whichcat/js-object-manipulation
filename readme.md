@@ -1,4 +1,6 @@
-js code that creates a list that stores all the lengths of the strings in the data.js
+#js code that creates a list that stores all the lengths of the strings in the data.js
+
+```
 
 finished list:
  [
@@ -15,3 +17,5 @@ finished list:
   { name: 7, artist: 15, description: 272, url: 32, alt: 98 },
   { name: 6, artist: 10, description: 78, url: 31, alt: 92 }
 ]
+
+```
