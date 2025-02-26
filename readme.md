@@ -1,4 +1,4 @@
-#js code that creates a list that stores all the lengths of the strings in the data.js
+# js code that creates a list that stores all the lengths of the strings in the data.js
 
 ```
 
